@@ -9,7 +9,7 @@ function HeroCards(props) {
             <div className="card">
                 <h2 className="name"> {el.name}</h2>
             <div className="container-item">
-              <div className="containerImageRating">
+              <div className="item-image">
                 <img src={el.url} className="image-hero" alt="logo" />
               </div>
               <div className="item-properties">
