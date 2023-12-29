@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/heroes-cards-app/static/css/main.8ccbb250.css",
-    "main.js": "/heroes-cards-app/static/js/main.c78ee7d6.js",
+    "main.css": "/heroes-cards-app/static/css/main.8f0196b4.css",
+    "main.js": "/heroes-cards-app/static/js/main.cdd6b0f5.js",
     "static/js/787.da80ebe8.chunk.js": "/heroes-cards-app/static/js/787.da80ebe8.chunk.js",
     "index.html": "/heroes-cards-app/index.html",
-    "main.8ccbb250.css.map": "/heroes-cards-app/static/css/main.8ccbb250.css.map",
-    "main.c78ee7d6.js.map": "/heroes-cards-app/static/js/main.c78ee7d6.js.map",
+    "main.8f0196b4.css.map": "/heroes-cards-app/static/css/main.8f0196b4.css.map",
+    "main.cdd6b0f5.js.map": "/heroes-cards-app/static/js/main.cdd6b0f5.js.map",
     "787.da80ebe8.chunk.js.map": "/heroes-cards-app/static/js/787.da80ebe8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ccbb250.css",
-    "static/js/main.c78ee7d6.js"
+    "static/css/main.8f0196b4.css",
+    "static/js/main.cdd6b0f5.js"
   ]
 }
